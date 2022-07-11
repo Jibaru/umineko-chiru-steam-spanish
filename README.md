@@ -8,7 +8,7 @@ Traducción al español de Umineko Chiru para Steam basado en la traducción de 
 
 ## ¿Cómo contribuir?
 
-Para contribuir lo recomendable sería enviar un correo personal a `ignacioruedaboada@gmail.com` con asunto `Traducción Umineko Chiru Steam`, pero también es posible hacerlo enviando una **pull request** indicando la línea de inicio y final de modificación. 
+Para contribuir lo recomendable sería enviar un correo personal a `ignacioruedaboada@gmail.com` con asunto `Traducción Umineko Chiru Steam`, pero también es posible hacerlo enviando una **pull request** indicando la línea de inicio y final de modificación.
 
 ## Estado de la traducción
 
@@ -24,4 +24,4 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 
 ### Porcentaje:
 
-- Avance total: 0.23/100%
+- Avance total: 0.53/100%
