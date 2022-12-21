@@ -14,7 +14,7 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 
 #### Líneas alcanzadas:
 
-- 10 000: NO
+- 10 000: SI
 - 50 000: NO
 - 100 000: NO
 - 150 000: NO
