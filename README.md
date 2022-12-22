@@ -15,7 +15,7 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 #### Líneas alcanzadas:
 
 - 10 000: SI
-- 50 000: NO
+- 50 000: SI
 - 100 000: NO
 - 150 000: NO
 - 200 000: NO
@@ -24,4 +24,4 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 
 ### Porcentaje:
 
-- Avance total: 15.58/100%
+- Avance total: 23.28/100%
