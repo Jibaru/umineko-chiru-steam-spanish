@@ -17,11 +17,11 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 - 10 000: SI
 - 50 000: SI
 - 100 000: SI
-- 150 000: NO
+- 150 000: SI
 - 200 000: NO
 - 250 000: NO
 - 264 452: NO
 
 ### Porcentaje:
 
-- Avance total: 54.05/100%
+- Avance total: 61.74/100%
