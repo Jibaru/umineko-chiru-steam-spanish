@@ -1,6 +1,6 @@
 # Umineko When They Cry Chiru - Traducción al español
 
-Traducción al español de Umineko Chiru para Steam basado en la traducción de [07thInquisition](https://07thinquisition.foroactivo.com/t961-umineko-no-naku-koro-ni-chiru-espanol-graficos-ps3-voces-ep8-listo).
+Traducción al español de Umineko Chiru para Steam.
 
 ## Estrategia de traducción
 
