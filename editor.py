@@ -100,7 +100,13 @@ def save(reader: FileReader, filteredList: list, editor: Editor):
 
     while i <= len(filteredList):
         line = editor.widget.get(str(i - 1.0), str(i))
-        index, line = line.split('===')
+        vals = line.split('===')
+        if len(vals) == 1:
+            print(vals, i)
+            i += 1
+            continue
+
+        index, line = vals
 
         elements[int(index)] = "langen" + line
         i += 1
