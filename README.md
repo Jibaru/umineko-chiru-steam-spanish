@@ -25,3 +25,49 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 ### Porcentaje:
 
 - Avance total: 84.81/100%
+
+### Screenshots
+
+_Alerta_: Las imágenes podrían contener spoilers.
+
+<details>
+  <summary>Imagen 01</summary>
+
+![01](screenshots/01.jpg)
+
+</details>
+
+<details>
+  <summary>Imagen 02</summary>
+
+![02](screenshots/02.jpg)
+
+</details>
+
+<details>
+  <summary>Imagen 03</summary>
+
+![03](screenshots/03.jpg)
+
+</details>
+
+<details>
+  <summary>Imagen 04</summary>
+
+![04](screenshots/04.jpg)
+
+</details>
+
+<details>
+  <summary>Imagen 05</summary>
+
+![05](screenshots/05.jpg)
+
+</details>
+
+<details>
+  <summary>Imagen 06</summary>
+
+![06](screenshots/06.jpg)
+
+</details>
