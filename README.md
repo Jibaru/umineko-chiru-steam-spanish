@@ -24,7 +24,7 @@ Para contribuir lo recomendable sería enviar un correo personal a `ignaciorueda
 
 ### Porcentaje:
 
-- Avance total: 84.81/100%
+- Avance total: 92.46/100%
 
 ### Screenshots
 
